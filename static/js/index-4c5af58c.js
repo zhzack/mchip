@@ -1,0 +1,1 @@
+import{d as u,c as e,j as o}from"./index-56b66478.js";const t=u({name:"MenuOverflow"}),_=u({...t,setup(n){return(a,c)=>(e(),o("div",null,"\u76EE\u5F55\u3001\u83DC\u5355\u6587\u5B57\u8D85\u51FA\u663E\u793A Tooltip \u6587\u5B57\u63D0\u793A"))}});export{_ as default};
